@@ -1,0 +1,55 @@
+.depoimentos {
+    border: 1px solid black;
+}
+
+.depoimentos-area-mask {
+    margin-left: 200px;
+    width: 900px;    
+}
+
+.slider-nav {    
+    height: 50px;
+    margin-left: 200px;
+    width: 900px;
+}
+
+.slider-nav div {
+    border: 1px solid red;
+    float: left;
+    margin-left: 58px;
+    width: 100px;
+    cursor: pointer;
+}
+
+.slider-arrow-left {
+    border: 1px solid green;
+    height: 50px;
+    margin-bottom: 140px;
+    margin-top: 15px;
+    position: relative;
+    width: 64px;
+}
+
+.slider-arrow-right {
+    border: 1px solid orange;
+    height: 50px;
+    margin-bottom: 140px;
+    margin-top: -175px;
+    margin-left: 1200px;
+    position: relative;
+    width: 64px;
+}
+
+.selection {
+    background-color: gold;
+    color: #000;
+    font-family: "Times new roman";
+    font-weight: bold;    
+    text-align: center;
+}
+
+.icon-slider-right, .icon-slider-left {
+    border: 1px solid black;
+    height: 40px;
+    margin-top: 4px;
+}
